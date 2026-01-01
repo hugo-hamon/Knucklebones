@@ -1,0 +1,2 @@
+cd knucklebones_rust
+maturin develop
