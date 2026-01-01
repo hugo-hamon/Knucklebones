@@ -11,6 +11,8 @@ This project features:
 - **AI Opponent**: An opponent using the NegaMax algorithm with alpha-beta pruning and transposition tables for performance
 - **Rust Backend**: Core game logic implemented in Rust, exposed to Python via PyO3
 
+<img src="images/game.png" alt="Knucklebones Game" width="500">
+
 ## Installation
 
 ### Prerequisites
